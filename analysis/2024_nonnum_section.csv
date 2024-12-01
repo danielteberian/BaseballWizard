@@ -1,0 +1,251 @@
+,Unnamed: 0,pitch_type,game_date,player_name,events,description,des,game_type,stand,p_throws,home_team,away_team,type,bb_type,inning_topbot,pitch_name
+0,0,FF,2024-09-29,"Nelson, Ryne",field_out,hit_into_play,"David Peralta grounds out, first baseman Christian Walker to pitcher Ryne Nelson.",R,L,R,AZ,SD,X,ground_ball,Top,4-Seam Fastball
+1,1,FC,2024-09-29,"Nelson, Ryne",field_out,hit_into_play,Jake Cronenworth lines out to third baseman Eugenio Suárez.,R,L,R,AZ,SD,X,line_drive,Top,Cutter
+2,2,FF,2024-09-29,"Nelson, Ryne",,foul,Jake Cronenworth lines out to third baseman Eugenio Suárez.,R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+3,3,FF,2024-09-29,"Nelson, Ryne",,ball,Jake Cronenworth lines out to third baseman Eugenio Suárez.,R,L,R,AZ,SD,B,,Top,4-Seam Fastball
+4,4,FF,2024-09-29,"Nelson, Ryne",field_out,hit_into_play,Fernando Tatis Jr.  flies out sharply to left fielder Jake McCarthy.,R,R,R,AZ,SD,X,fly_ball,Top,4-Seam Fastball
+5,5,FF,2024-09-29,"Matsui, Yuki",field_out,hit_into_play,Jake McCarthy flies out to left fielder David Peralta.,R,L,L,AZ,SD,X,fly_ball,Bot,4-Seam Fastball
+6,6,SL,2024-09-29,"Matsui, Yuki",,swinging_strike,Jake McCarthy flies out to left fielder David Peralta.,R,L,L,AZ,SD,S,,Bot,Slider
+7,7,FF,2024-09-29,"Matsui, Yuki",,ball,Jake McCarthy flies out to left fielder David Peralta.,R,L,L,AZ,SD,B,,Bot,4-Seam Fastball
+8,8,SI,2024-09-29,"Waldron, Matt",single,hit_into_play,Eugenio Suárez singles on a sharp line drive to left fielder David Peralta.,R,R,R,AZ,SD,X,line_drive,Bot,Sinker
+9,9,SI,2024-09-29,"Waldron, Matt",,ball,Eugenio Suárez singles on a sharp line drive to left fielder David Peralta.,R,R,R,AZ,SD,B,,Bot,Sinker
+10,10,KN,2024-09-29,"Waldron, Matt",,ball,Eugenio Suárez singles on a sharp line drive to left fielder David Peralta.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+11,11,FF,2024-09-29,"Waldron, Matt",,ball,Eugenio Suárez singles on a sharp line drive to left fielder David Peralta.,R,R,R,AZ,SD,B,,Bot,4-Seam Fastball
+12,12,FC,2024-09-29,"Waldron, Matt",,foul,Eugenio Suárez singles on a sharp line drive to left fielder David Peralta.,R,R,R,AZ,SD,S,,Bot,Cutter
+13,13,FF,2024-09-29,"Waldron, Matt",home_run,hit_into_play,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,X,fly_ball,Bot,4-Seam Fastball
+14,14,KN,2024-09-29,"Waldron, Matt",,ball,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+15,15,KN,2024-09-29,"Waldron, Matt",,foul,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,S,,Bot,Knuckleball
+16,16,ST,2024-09-29,"Waldron, Matt",,foul,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,S,,Bot,Sweeper
+17,17,FF,2024-09-29,"Waldron, Matt",,foul,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,S,,Bot,4-Seam Fastball
+18,18,KN,2024-09-29,"Waldron, Matt",,ball,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+19,19,KN,2024-09-29,"Waldron, Matt",,blocked_ball,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+20,20,FC,2024-09-29,"Waldron, Matt",,foul,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,S,,Bot,Cutter
+21,21,ST,2024-09-29,"Waldron, Matt",,called_strike,Randal Grichuk homers (12) on a fly ball to right center field.    Alek Thomas scores.,R,R,R,AZ,SD,S,,Bot,Sweeper
+22,22,FC,2024-09-29,"Waldron, Matt",field_out,hit_into_play,Christian Walker flies out to shortstop Nick Ahmed.,R,R,R,AZ,SD,X,fly_ball,Bot,Cutter
+23,23,KN,2024-09-29,"Waldron, Matt",,blocked_ball,Christian Walker flies out to shortstop Nick Ahmed.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+24,24,ST,2024-09-29,"Waldron, Matt",,called_strike,Christian Walker flies out to shortstop Nick Ahmed.,R,R,R,AZ,SD,S,,Bot,Sweeper
+25,25,SI,2024-09-29,"Waldron, Matt",single,hit_into_play,Lourdes Gurriel Jr.  singles on a sharp line drive to left fielder David Peralta.,R,R,R,AZ,SD,X,line_drive,Bot,Sinker
+26,26,KN,2024-09-29,"Waldron, Matt",,ball,Lourdes Gurriel Jr.  singles on a sharp line drive to left fielder David Peralta.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+27,27,ST,2024-09-29,"Waldron, Matt",,called_strike,Lourdes Gurriel Jr.  singles on a sharp line drive to left fielder David Peralta.,R,R,R,AZ,SD,S,,Bot,Sweeper
+28,28,KN,2024-09-29,"Waldron, Matt",field_out,hit_into_play,Corbin Carroll flies out to second baseman Jake Cronenworth.,R,L,R,AZ,SD,X,fly_ball,Bot,Knuckleball
+29,29,KN,2024-09-29,"Waldron, Matt",,swinging_strike,Corbin Carroll flies out to second baseman Jake Cronenworth.,R,L,R,AZ,SD,S,,Bot,Knuckleball
+30,30,FC,2024-09-29,"Waldron, Matt",,called_strike,Corbin Carroll flies out to second baseman Jake Cronenworth.,R,L,R,AZ,SD,S,,Bot,Cutter
+31,31,KN,2024-09-29,"Waldron, Matt",,ball,Corbin Carroll flies out to second baseman Jake Cronenworth.,R,L,R,AZ,SD,B,,Bot,Knuckleball
+32,32,ST,2024-09-29,"Waldron, Matt",,ball,Corbin Carroll flies out to second baseman Jake Cronenworth.,R,L,R,AZ,SD,B,,Bot,Sweeper
+33,33,FC,2024-09-29,"Nelson, Ryne",strikeout,foul_tip,Donovan Solano strikes out on a foul tip.,R,R,R,AZ,SD,S,,Top,Cutter
+34,34,SL,2024-09-29,"Nelson, Ryne",,ball,Donovan Solano strikes out on a foul tip.,R,R,R,AZ,SD,B,,Top,Slider
+35,35,FF,2024-09-29,"Nelson, Ryne",,foul,Donovan Solano strikes out on a foul tip.,R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+36,36,FC,2024-09-29,"Nelson, Ryne",,foul,Donovan Solano strikes out on a foul tip.,R,R,R,AZ,SD,S,,Top,Cutter
+37,37,FC,2024-09-29,"Nelson, Ryne",,foul,Donovan Solano strikes out on a foul tip.,R,R,R,AZ,SD,S,,Top,Cutter
+38,38,FF,2024-09-29,"Nelson, Ryne",,ball,Donovan Solano strikes out on a foul tip.,R,R,R,AZ,SD,B,,Top,4-Seam Fastball
+39,39,FC,2024-09-29,"Nelson, Ryne",field_out,hit_into_play,"Brandon Lockridge grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,X,ground_ball,Top,Cutter
+40,40,FF,2024-09-29,"Nelson, Ryne",,foul,"Brandon Lockridge grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+41,41,FF,2024-09-29,"Nelson, Ryne",,foul,"Brandon Lockridge grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+42,42,FF,2024-09-29,"Nelson, Ryne",,ball,"Brandon Lockridge grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,B,,Top,4-Seam Fastball
+43,43,SL,2024-09-29,"Nelson, Ryne",,ball,"Brandon Lockridge grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,B,,Top,Slider
+44,44,FF,2024-09-29,"Nelson, Ryne",,ball,"Brandon Lockridge grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,B,,Top,4-Seam Fastball
+45,45,FF,2024-09-29,"Nelson, Ryne",,foul,"Brandon Lockridge grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+46,46,FF,2024-09-29,"Nelson, Ryne",,called_strike,"Brandon Lockridge grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+47,47,FC,2024-09-29,"Nelson, Ryne",field_out,hit_into_play,"Tyler Wade grounds out, second baseman Ketel Marte to first baseman Christian Walker.",R,L,R,AZ,SD,X,ground_ball,Top,Cutter
+48,48,FF,2024-09-29,"Nelson, Ryne",,foul,"Tyler Wade grounds out, second baseman Ketel Marte to first baseman Christian Walker.",R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+49,49,FF,2024-09-29,"Nelson, Ryne",,foul,"Tyler Wade grounds out, second baseman Ketel Marte to first baseman Christian Walker.",R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+50,50,FC,2024-09-29,"Nelson, Ryne",,called_strike,"Tyler Wade grounds out, second baseman Ketel Marte to first baseman Christian Walker.",R,L,R,AZ,SD,S,,Top,Cutter
+51,51,FF,2024-09-29,"Nelson, Ryne",,swinging_strike,"Tyler Wade grounds out, second baseman Ketel Marte to first baseman Christian Walker.",R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+52,52,FF,2024-09-29,"Nelson, Ryne",,ball,"Tyler Wade grounds out, second baseman Ketel Marte to first baseman Christian Walker.",R,L,R,AZ,SD,B,,Top,4-Seam Fastball
+53,53,KN,2024-09-29,"Waldron, Matt",field_out,hit_into_play,Ketel Marte lines out sharply to center fielder Jackson Merrill.,R,L,R,AZ,SD,X,line_drive,Bot,Knuckleball
+54,54,KN,2024-09-29,"Waldron, Matt",,ball,Ketel Marte lines out sharply to center fielder Jackson Merrill.,R,L,R,AZ,SD,B,,Bot,Knuckleball
+55,55,FC,2024-09-29,"Waldron, Matt",,foul,Ketel Marte lines out sharply to center fielder Jackson Merrill.,R,L,R,AZ,SD,S,,Bot,Cutter
+56,56,KN,2024-09-29,"Waldron, Matt",,foul,Ketel Marte lines out sharply to center fielder Jackson Merrill.,R,L,R,AZ,SD,S,,Bot,Knuckleball
+57,57,KN,2024-09-29,"Waldron, Matt",strikeout,called_strike,Geraldo Perdomo called out on strikes.,R,L,R,AZ,SD,S,,Bot,Knuckleball
+58,58,SI,2024-09-29,"Waldron, Matt",,foul_tip,Geraldo Perdomo called out on strikes.,R,L,R,AZ,SD,S,,Bot,Sinker
+59,59,KN,2024-09-29,"Waldron, Matt",,ball,Geraldo Perdomo called out on strikes.,R,L,R,AZ,SD,B,,Bot,Knuckleball
+60,60,ST,2024-09-29,"Waldron, Matt",,ball,Geraldo Perdomo called out on strikes.,R,L,R,AZ,SD,B,,Bot,Sweeper
+61,61,SI,2024-09-29,"Waldron, Matt",,called_strike,Geraldo Perdomo called out on strikes.,R,L,R,AZ,SD,S,,Bot,Sinker
+62,62,FC,2024-09-29,"Waldron, Matt",field_out,hit_into_play,Gabriel Moreno flies out to center fielder Jackson Merrill.,R,R,R,AZ,SD,X,fly_ball,Bot,Cutter
+63,63,SI,2024-09-29,"Waldron, Matt",,ball,Gabriel Moreno flies out to center fielder Jackson Merrill.,R,R,R,AZ,SD,B,,Bot,Sinker
+64,64,FC,2024-09-29,"Waldron, Matt",,called_strike,Gabriel Moreno flies out to center fielder Jackson Merrill.,R,R,R,AZ,SD,S,,Bot,Cutter
+65,65,KN,2024-09-29,"Waldron, Matt",single,hit_into_play,Jake McCarthy singles on a ground ball to first baseman Donovan Solano.,R,L,R,AZ,SD,X,ground_ball,Bot,Knuckleball
+66,66,FF,2024-09-29,"Waldron, Matt",,foul,Jake McCarthy singles on a ground ball to first baseman Donovan Solano.,R,L,R,AZ,SD,S,,Bot,4-Seam Fastball
+67,67,ST,2024-09-29,"Waldron, Matt",,ball,Jake McCarthy singles on a ground ball to first baseman Donovan Solano.,R,L,R,AZ,SD,B,,Bot,Sweeper
+68,68,SI,2024-09-29,"Waldron, Matt",,foul,Jake McCarthy singles on a ground ball to first baseman Donovan Solano.,R,L,R,AZ,SD,S,,Bot,Sinker
+69,69,FF,2024-09-29,"Waldron, Matt",home_run,hit_into_play,Eugenio Suárez homers (30) on a fly ball to center field.,R,R,R,AZ,SD,X,fly_ball,Bot,4-Seam Fastball
+70,70,ST,2024-09-29,"Waldron, Matt",,foul,Eugenio Suárez homers (30) on a fly ball to center field.,R,R,R,AZ,SD,S,,Bot,Sweeper
+71,71,KN,2024-09-29,"Waldron, Matt",,ball,Eugenio Suárez homers (30) on a fly ball to center field.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+72,72,ST,2024-09-29,"Waldron, Matt",,foul,Eugenio Suárez homers (30) on a fly ball to center field.,R,R,R,AZ,SD,S,,Bot,Sweeper
+73,73,FF,2024-09-29,"Waldron, Matt",,foul,Eugenio Suárez homers (30) on a fly ball to center field.,R,R,R,AZ,SD,S,,Bot,4-Seam Fastball
+74,74,KN,2024-09-29,"Waldron, Matt",,ball,Eugenio Suárez homers (30) on a fly ball to center field.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+75,75,FF,2024-09-29,"Waldron, Matt",,swinging_strike,Eugenio Suárez homers (30) on a fly ball to center field.,R,R,R,AZ,SD,S,,Bot,4-Seam Fastball
+76,76,FF,2024-09-29,"Nelson, Ryne",grounded_into_double_play,hit_into_play,"Elias Díaz grounds into a double play, shortstop Geraldo Perdomo to second baseman Ketel Marte to first baseman Christian Walker.   Nick Ahmed out at 2nd.    Elias Díaz out at 1st.",R,R,R,AZ,SD,X,ground_ball,Top,4-Seam Fastball
+77,77,FF,2024-09-29,"Nelson, Ryne",,foul,"Elias Díaz grounds into a double play, shortstop Geraldo Perdomo to second baseman Ketel Marte to first baseman Christian Walker.   Nick Ahmed out at 2nd.    Elias Díaz out at 1st.",R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+78,78,FC,2024-09-29,"Nelson, Ryne",,foul,"Elias Díaz grounds into a double play, shortstop Geraldo Perdomo to second baseman Ketel Marte to first baseman Christian Walker.   Nick Ahmed out at 2nd.    Elias Díaz out at 1st.",R,R,R,AZ,SD,S,,Top,Cutter
+79,79,FF,2024-09-29,"Nelson, Ryne",,ball,"Elias Díaz grounds into a double play, shortstop Geraldo Perdomo to second baseman Ketel Marte to first baseman Christian Walker.   Nick Ahmed out at 2nd.    Elias Díaz out at 1st.",R,R,R,AZ,SD,B,,Top,4-Seam Fastball
+80,80,FC,2024-09-29,"Nelson, Ryne",,swinging_strike,"Elias Díaz grounds into a double play, shortstop Geraldo Perdomo to second baseman Ketel Marte to first baseman Christian Walker.   Nick Ahmed out at 2nd.    Elias Díaz out at 1st.",R,R,R,AZ,SD,S,,Top,Cutter
+81,81,FF,2024-09-29,"Nelson, Ryne",,ball,"Elias Díaz grounds into a double play, shortstop Geraldo Perdomo to second baseman Ketel Marte to first baseman Christian Walker.   Nick Ahmed out at 2nd.    Elias Díaz out at 1st.",R,R,R,AZ,SD,B,,Top,4-Seam Fastball
+82,82,FF,2024-09-29,"Nelson, Ryne",single,hit_into_play,Nick Ahmed singles on a ground ball to center fielder Jake McCarthy.,R,R,R,AZ,SD,X,ground_ball,Top,4-Seam Fastball
+83,83,FF,2024-09-29,"Nelson, Ryne",,swinging_strike,Nick Ahmed singles on a ground ball to center fielder Jake McCarthy.,R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+84,84,FF,2024-09-29,"Nelson, Ryne",field_out,hit_into_play,"Jackson Merrill grounds out, third baseman Eugenio Suárez to first baseman Christian Walker.",R,L,R,AZ,SD,X,ground_ball,Top,4-Seam Fastball
+85,85,FF,2024-09-29,"Nelson, Ryne",,swinging_strike,"Jackson Merrill grounds out, third baseman Eugenio Suárez to first baseman Christian Walker.",R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+86,86,FF,2024-09-29,"Nelson, Ryne",,ball,"Jackson Merrill grounds out, third baseman Eugenio Suárez to first baseman Christian Walker.",R,L,R,AZ,SD,B,,Top,4-Seam Fastball
+87,87,FF,2024-09-29,"Nelson, Ryne",,ball,"Jackson Merrill grounds out, third baseman Eugenio Suárez to first baseman Christian Walker.",R,L,R,AZ,SD,B,,Top,4-Seam Fastball
+88,88,FC,2024-09-29,"Waldron, Matt",field_out,hit_into_play,"Randal Grichuk grounds out, third baseman Tyler Wade to first baseman Donovan Solano.",R,R,R,AZ,SD,X,ground_ball,Bot,Cutter
+89,89,ST,2024-09-29,"Waldron, Matt",,ball,"Randal Grichuk grounds out, third baseman Tyler Wade to first baseman Donovan Solano.",R,R,R,AZ,SD,B,,Bot,Sweeper
+90,90,FC,2024-09-29,"Waldron, Matt",,ball,"Randal Grichuk grounds out, third baseman Tyler Wade to first baseman Donovan Solano.",R,R,R,AZ,SD,B,,Bot,Cutter
+91,91,KN,2024-09-29,"Waldron, Matt",hit_by_pitch,hit_by_pitch,Christian Walker hit by pitch.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+92,92,FF,2024-09-29,"Waldron, Matt",,foul,Christian Walker hit by pitch.,R,R,R,AZ,SD,S,,Bot,4-Seam Fastball
+93,93,KN,2024-09-29,"Waldron, Matt",,swinging_strike,Christian Walker hit by pitch.,R,R,R,AZ,SD,S,,Bot,Knuckleball
+94,94,ST,2024-09-29,"Waldron, Matt",,foul,Christian Walker hit by pitch.,R,R,R,AZ,SD,S,,Bot,Sweeper
+95,95,FF,2024-09-29,"Waldron, Matt",triple,hit_into_play,Lourdes Gurriel Jr.  triples (2) on a line drive to right fielder Brandon Lockridge.   Corbin Carroll scores.,R,R,R,AZ,SD,X,line_drive,Bot,4-Seam Fastball
+96,96,FC,2024-09-29,"Waldron, Matt",,foul,Lourdes Gurriel Jr.  triples (2) on a line drive to right fielder Brandon Lockridge.   Corbin Carroll scores.,R,R,R,AZ,SD,S,,Bot,Cutter
+97,97,KN,2024-09-29,"Waldron, Matt",force_out,hit_into_play,"Corbin Carroll grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Ketel Marte out at 2nd.    Corbin Carroll to 1st.",R,L,R,AZ,SD,X,ground_ball,Bot,Knuckleball
+98,98,FC,2024-09-29,"Waldron, Matt",,foul,"Corbin Carroll grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Ketel Marte out at 2nd.    Corbin Carroll to 1st.",R,L,R,AZ,SD,S,,Bot,Cutter
+99,99,ST,2024-09-29,"Waldron, Matt",,called_strike,"Corbin Carroll grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Ketel Marte out at 2nd.    Corbin Carroll to 1st.",R,L,R,AZ,SD,S,,Bot,Sweeper
+100,100,FF,2024-09-29,"Waldron, Matt",force_out,hit_into_play,"Ketel Marte grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Geraldo Perdomo out at 2nd.    Ketel Marte to 1st.",R,L,R,AZ,SD,X,ground_ball,Bot,4-Seam Fastball
+101,101,ST,2024-09-29,"Waldron, Matt",,foul,"Ketel Marte grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Geraldo Perdomo out at 2nd.    Ketel Marte to 1st.",R,L,R,AZ,SD,S,,Bot,Sweeper
+102,102,FF,2024-09-29,"Waldron, Matt",,foul,"Ketel Marte grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Geraldo Perdomo out at 2nd.    Ketel Marte to 1st.",R,L,R,AZ,SD,S,,Bot,4-Seam Fastball
+103,103,KN,2024-09-29,"Waldron, Matt",,ball,"Ketel Marte grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Geraldo Perdomo out at 2nd.    Ketel Marte to 1st.",R,L,R,AZ,SD,B,,Bot,Knuckleball
+104,104,FF,2024-09-29,"Waldron, Matt",,foul,"Ketel Marte grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Geraldo Perdomo out at 2nd.    Ketel Marte to 1st.",R,L,R,AZ,SD,S,,Bot,4-Seam Fastball
+105,105,KN,2024-09-29,"Waldron, Matt",,foul,"Ketel Marte grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Geraldo Perdomo out at 2nd.    Ketel Marte to 1st.",R,L,R,AZ,SD,S,,Bot,Knuckleball
+106,106,FF,2024-09-29,"Waldron, Matt",,called_strike,"Ketel Marte grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Geraldo Perdomo out at 2nd.    Ketel Marte to 1st.",R,L,R,AZ,SD,S,,Bot,4-Seam Fastball
+107,107,SI,2024-09-29,"Waldron, Matt",single,hit_into_play,Geraldo Perdomo singles on a sharp line drive to right fielder Brandon Lockridge.,R,L,R,AZ,SD,X,line_drive,Bot,Sinker
+108,108,KN,2024-09-29,"Waldron, Matt",,ball,Geraldo Perdomo singles on a sharp line drive to right fielder Brandon Lockridge.,R,L,R,AZ,SD,B,,Bot,Knuckleball
+109,109,KN,2024-09-29,"Waldron, Matt",,foul,Geraldo Perdomo singles on a sharp line drive to right fielder Brandon Lockridge.,R,L,R,AZ,SD,S,,Bot,Knuckleball
+110,110,KN,2024-09-29,"Waldron, Matt",,called_strike,Geraldo Perdomo singles on a sharp line drive to right fielder Brandon Lockridge.,R,L,R,AZ,SD,S,,Bot,Knuckleball
+111,111,FC,2024-09-29,"Waldron, Matt",,called_strike,Geraldo Perdomo singles on a sharp line drive to right fielder Brandon Lockridge.,R,L,R,AZ,SD,S,,Bot,Cutter
+112,112,SI,2024-09-29,"Waldron, Matt",,ball,Geraldo Perdomo singles on a sharp line drive to right fielder Brandon Lockridge.,R,L,R,AZ,SD,B,,Bot,Sinker
+113,113,CU,2024-09-29,"Mantiply, Joe",strikeout,swinging_strike,David Peralta strikes out swinging.,R,L,L,AZ,SD,S,,Top,Curveball
+114,114,SI,2024-09-29,"Mantiply, Joe",,foul,David Peralta strikes out swinging.,R,L,L,AZ,SD,S,,Top,Sinker
+115,115,CU,2024-09-29,"Mantiply, Joe",,ball,David Peralta strikes out swinging.,R,L,L,AZ,SD,B,,Top,Curveball
+116,116,CU,2024-09-29,"Mantiply, Joe",,swinging_strike,David Peralta strikes out swinging.,R,L,L,AZ,SD,S,,Top,Curveball
+117,117,CU,2024-09-29,"Mantiply, Joe",,ball,David Peralta strikes out swinging.,R,L,L,AZ,SD,B,,Top,Curveball
+118,118,SI,2024-09-29,"Mantiply, Joe",,swinging_strike,David Peralta strikes out swinging.,R,L,L,AZ,SD,S,,Top,Sinker
+119,119,SI,2024-09-29,"Mantiply, Joe",field_out,hit_into_play,Jake Cronenworth grounds out to first baseman Christian Walker.   Luis Arraez scores.,R,L,L,AZ,SD,X,ground_ball,Top,Sinker
+120,120,CU,2024-09-29,"Mantiply, Joe",,foul,Jake Cronenworth grounds out to first baseman Christian Walker.   Luis Arraez scores.,R,L,L,AZ,SD,S,,Top,Curveball
+121,121,SI,2024-09-29,"Mantiply, Joe",,foul,Jake Cronenworth grounds out to first baseman Christian Walker.   Luis Arraez scores.,R,L,L,AZ,SD,S,,Top,Sinker
+122,122,SI,2024-09-29,"Mantiply, Joe",,ball,Jake Cronenworth grounds out to first baseman Christian Walker.   Luis Arraez scores.,R,L,L,AZ,SD,B,,Top,Sinker
+123,123,SI,2024-09-29,"Mantiply, Joe",,ball,Jake Cronenworth grounds out to first baseman Christian Walker.   Luis Arraez scores.,R,L,L,AZ,SD,B,,Top,Sinker
+124,124,FF,2024-09-29,"Pfaadt, Brandon",field_out,hit_into_play,"Fernando Tatis Jr.  grounds out, third baseman Eugenio Suárez to first baseman Christian Walker.",R,R,R,AZ,SD,X,ground_ball,Top,4-Seam Fastball
+125,125,CU,2024-09-29,"Pfaadt, Brandon",,blocked_ball,"Fernando Tatis Jr.  grounds out, third baseman Eugenio Suárez to first baseman Christian Walker.",R,R,R,AZ,SD,B,,Top,Curveball
+126,126,ST,2024-09-29,"Pfaadt, Brandon",,ball,"Fernando Tatis Jr.  grounds out, third baseman Eugenio Suárez to first baseman Christian Walker.",R,R,R,AZ,SD,B,,Top,Sweeper
+127,127,FF,2024-09-29,"Pfaadt, Brandon",,foul,"Fernando Tatis Jr.  grounds out, third baseman Eugenio Suárez to first baseman Christian Walker.",R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+128,128,CH,2024-09-29,"Pfaadt, Brandon",double,hit_into_play,Luis Arraez doubles (32) on a line drive to center fielder Jake McCarthy.,R,L,R,AZ,SD,X,line_drive,Top,Changeup
+129,129,CU,2024-09-29,"Pfaadt, Brandon",,ball,Luis Arraez doubles (32) on a line drive to center fielder Jake McCarthy.,R,L,R,AZ,SD,B,,Top,Curveball
+130,130,FF,2024-09-29,"Pfaadt, Brandon",,foul,Luis Arraez doubles (32) on a line drive to center fielder Jake McCarthy.,R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+131,131,KN,2024-09-29,"Waldron, Matt",strikeout,swinging_strike,Gabriel Moreno strikes out swinging.,R,R,R,AZ,SD,S,,Bot,Knuckleball
+132,132,ST,2024-09-29,"Waldron, Matt",,ball,Gabriel Moreno strikes out swinging.,R,R,R,AZ,SD,B,,Bot,Sweeper
+133,133,KN,2024-09-29,"Waldron, Matt",,swinging_strike,Gabriel Moreno strikes out swinging.,R,R,R,AZ,SD,S,,Bot,Knuckleball
+134,134,FF,2024-09-29,"Waldron, Matt",,called_strike,Gabriel Moreno strikes out swinging.,R,R,R,AZ,SD,S,,Bot,4-Seam Fastball
+135,135,FF,2024-09-29,"Waldron, Matt",double,hit_into_play,Jake McCarthy doubles (13) on a ground ball to third baseman Tyler Wade.   Randal Grichuk scores.,R,L,R,AZ,SD,X,ground_ball,Bot,4-Seam Fastball
+136,136,ST,2024-09-29,"Waldron, Matt",,called_strike,Jake McCarthy doubles (13) on a ground ball to third baseman Tyler Wade.   Randal Grichuk scores.,R,L,R,AZ,SD,S,,Bot,Sweeper
+137,137,ST,2024-09-29,"Waldron, Matt",strikeout,swinging_strike,Eugenio Suárez strikes out swinging.,R,R,R,AZ,SD,S,,Bot,Sweeper
+138,138,SI,2024-09-29,"Waldron, Matt",,foul,Eugenio Suárez strikes out swinging.,R,R,R,AZ,SD,S,,Bot,Sinker
+139,139,KN,2024-09-29,"Waldron, Matt",,foul,Eugenio Suárez strikes out swinging.,R,R,R,AZ,SD,S,,Bot,Knuckleball
+140,140,KN,2024-09-29,"Waldron, Matt",,ball,Eugenio Suárez strikes out swinging.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+141,141,SI,2024-09-29,"Waldron, Matt",force_out,hit_into_play,"Randal Grichuk grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Christian Walker out at 2nd.    Randal Grichuk to 1st.",R,R,R,AZ,SD,X,ground_ball,Bot,Sinker
+142,142,FC,2024-09-29,"Waldron, Matt",,called_strike,"Randal Grichuk grounds into a force out, shortstop Nick Ahmed to second baseman Jake Cronenworth.   Christian Walker out at 2nd.    Randal Grichuk to 1st.",R,R,R,AZ,SD,S,,Bot,Cutter
+143,143,KN,2024-09-29,"Waldron, Matt",hit_by_pitch,hit_by_pitch,Christian Walker hit by pitch.,R,R,R,AZ,SD,B,,Bot,Knuckleball
+144,144,FC,2024-09-29,"Waldron, Matt",,ball,Christian Walker hit by pitch.,R,R,R,AZ,SD,B,,Bot,Cutter
+145,145,ST,2024-09-29,"Waldron, Matt",,swinging_strike,Christian Walker hit by pitch.,R,R,R,AZ,SD,S,,Bot,Sweeper
+146,146,SI,2024-09-29,"Waldron, Matt",,called_strike,Christian Walker hit by pitch.,R,R,R,AZ,SD,S,,Bot,Sinker
+147,147,FF,2024-09-29,"Pfaadt, Brandon",strikeout,swinging_strike,Brandon Lockridge strikes out swinging.,R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+148,148,SI,2024-09-29,"Pfaadt, Brandon",,foul,Brandon Lockridge strikes out swinging.,R,R,R,AZ,SD,S,,Top,Sinker
+149,149,SI,2024-09-29,"Pfaadt, Brandon",,foul,Brandon Lockridge strikes out swinging.,R,R,R,AZ,SD,S,,Top,Sinker
+150,150,CU,2024-09-29,"Pfaadt, Brandon",field_out,hit_into_play,"Tyler Wade grounds out, second baseman Ketel Marte to first baseman Christian Walker.",R,L,R,AZ,SD,X,ground_ball,Top,Curveball
+151,151,SI,2024-09-29,"Pfaadt, Brandon",field_out,hit_into_play,"Elias Díaz grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,X,ground_ball,Top,Sinker
+152,152,SI,2024-09-29,"Pfaadt, Brandon",,ball,"Elias Díaz grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,B,,Top,Sinker
+153,153,ST,2024-09-29,"Pfaadt, Brandon",,foul,"Elias Díaz grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,S,,Top,Sweeper
+154,154,FF,2024-09-29,"Pfaadt, Brandon",,ball,"Elias Díaz grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,B,,Top,4-Seam Fastball
+155,155,SI,2024-09-29,"Pfaadt, Brandon",,called_strike,"Elias Díaz grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,S,,Top,Sinker
+156,156,FF,2024-09-29,"Pfaadt, Brandon",,ball,"Elias Díaz grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,B,,Top,4-Seam Fastball
+157,157,FF,2024-09-29,"Pfaadt, Brandon",,called_strike,"Elias Díaz grounds out, shortstop Geraldo Perdomo to first baseman Christian Walker.",R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+158,158,KN,2024-09-29,"Waldron, Matt",field_out,hit_into_play,"Lourdes Gurriel Jr.  grounds out, shortstop Nick Ahmed to first baseman Luis Arraez.",R,R,R,AZ,SD,X,ground_ball,Bot,Knuckleball
+159,159,FF,2024-09-29,"Waldron, Matt",,ball,"Lourdes Gurriel Jr.  grounds out, shortstop Nick Ahmed to first baseman Luis Arraez.",R,R,R,AZ,SD,B,,Bot,4-Seam Fastball
+160,160,KN,2024-09-29,"Waldron, Matt",,foul,"Lourdes Gurriel Jr.  grounds out, shortstop Nick Ahmed to first baseman Luis Arraez.",R,R,R,AZ,SD,S,,Bot,Knuckleball
+161,161,KN,2024-09-29,"Waldron, Matt",,foul,"Lourdes Gurriel Jr.  grounds out, shortstop Nick Ahmed to first baseman Luis Arraez.",R,R,R,AZ,SD,S,,Bot,Knuckleball
+162,162,SI,2024-09-29,"Waldron, Matt",,foul,"Lourdes Gurriel Jr.  grounds out, shortstop Nick Ahmed to first baseman Luis Arraez.",R,R,R,AZ,SD,S,,Bot,Sinker
+163,163,FC,2024-09-29,"Pérez, Martín",walk,ball,Corbin Carroll walks.,R,L,L,AZ,SD,B,,Bot,Cutter
+164,164,SI,2024-09-29,"Pérez, Martín",,ball,Corbin Carroll walks.,R,L,L,AZ,SD,B,,Bot,Sinker
+165,165,CH,2024-09-29,"Pérez, Martín",,ball,Corbin Carroll walks.,R,L,L,AZ,SD,B,,Bot,Changeup
+166,166,FC,2024-09-29,"Pérez, Martín",,foul,Corbin Carroll walks.,R,L,L,AZ,SD,S,,Bot,Cutter
+167,167,FC,2024-09-29,"Pérez, Martín",,ball,Corbin Carroll walks.,R,L,L,AZ,SD,B,,Bot,Cutter
+168,168,FF,2024-09-29,"Pérez, Martín",home_run,hit_into_play,Ketel Marte homers (36) on a fly ball to left center field.   Gabriel Moreno scores.,R,R,L,AZ,SD,X,fly_ball,Bot,4-Seam Fastball
+169,169,FC,2024-09-29,"Pérez, Martín",field_out,hit_into_play,"Geraldo Perdomo grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.   Jake McCarthy scores.    Gabriel Moreno to 3rd.",R,R,L,AZ,SD,X,ground_ball,Bot,Cutter
+170,170,FC,2024-09-29,"Pérez, Martín",,ball,"Geraldo Perdomo grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.   Jake McCarthy scores.    Gabriel Moreno to 3rd.",R,R,L,AZ,SD,B,,Bot,Cutter
+171,171,FF,2024-09-29,"Pérez, Martín",double,hit_into_play,Gabriel Moreno doubles (18) on a sharp line drive to left fielder David Peralta.   Eugenio Suárez scores.    Jake McCarthy to 3rd.,R,R,L,AZ,SD,X,line_drive,Bot,4-Seam Fastball
+172,172,CH,2024-09-29,"Pérez, Martín",,called_strike,Gabriel Moreno doubles (18) on a sharp line drive to left fielder David Peralta.   Eugenio Suárez scores.    Jake McCarthy to 3rd.,R,R,L,AZ,SD,S,,Bot,Changeup
+173,173,CU,2024-09-29,"Pérez, Martín",,ball,Gabriel Moreno doubles (18) on a sharp line drive to left fielder David Peralta.   Eugenio Suárez scores.    Jake McCarthy to 3rd.,R,R,L,AZ,SD,B,,Bot,Curveball
+174,174,SI,2024-09-29,"Pérez, Martín",single,hit_into_play,Jake McCarthy singles on a ground ball to right fielder Brandon Lockridge.   Randal Grichuk scores.    Eugenio Suárez to 2nd.,R,L,L,AZ,SD,X,ground_ball,Bot,Sinker
+175,175,FC,2024-09-29,"Pérez, Martín",,ball,Jake McCarthy singles on a ground ball to right fielder Brandon Lockridge.   Randal Grichuk scores.    Eugenio Suárez to 2nd.,R,L,L,AZ,SD,B,,Bot,Cutter
+176,176,FC,2024-09-29,"Pérez, Martín",,swinging_strike,Jake McCarthy singles on a ground ball to right fielder Brandon Lockridge.   Randal Grichuk scores.    Eugenio Suárez to 2nd.,R,L,L,AZ,SD,S,,Bot,Cutter
+177,177,CU,2024-09-29,"Pérez, Martín",single,hit_into_play,Eugenio Suárez singles on a line drive to center fielder Jackson Merrill.   Christian Walker scores.    Randal Grichuk to 2nd.,R,R,L,AZ,SD,X,line_drive,Bot,Curveball
+178,178,FC,2024-09-29,"Pérez, Martín",single,hit_into_play,Randal Grichuk singles on a ground ball to left fielder David Peralta.   Christian Walker to 3rd.,R,R,L,AZ,SD,X,ground_ball,Bot,Cutter
+179,179,CH,2024-09-29,"Pérez, Martín",double,hit_into_play,Christian Walker doubles (26) on a line drive to left fielder David Peralta.,R,R,L,AZ,SD,X,line_drive,Bot,Changeup
+180,180,SI,2024-09-29,"Pérez, Martín",field_out,hit_into_play,Lourdes Gurriel Jr.  lines out to center fielder Jackson Merrill.,R,R,L,AZ,SD,X,line_drive,Bot,Sinker
+181,181,FC,2024-09-29,"Pérez, Martín",,foul,Lourdes Gurriel Jr.  lines out to center fielder Jackson Merrill.,R,R,L,AZ,SD,S,,Bot,Cutter
+182,182,SI,2024-09-29,"Pérez, Martín",,ball,Lourdes Gurriel Jr.  lines out to center fielder Jackson Merrill.,R,R,L,AZ,SD,B,,Bot,Sinker
+183,183,FF,2024-09-29,"Pfaadt, Brandon",strikeout,swinging_strike,Nick Ahmed strikes out swinging.,R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+184,184,CU,2024-09-29,"Pfaadt, Brandon",,foul,Nick Ahmed strikes out swinging.,R,R,R,AZ,SD,S,,Top,Curveball
+185,185,SI,2024-09-29,"Pfaadt, Brandon",,foul,Nick Ahmed strikes out swinging.,R,R,R,AZ,SD,S,,Top,Sinker
+186,186,ST,2024-09-29,"Pfaadt, Brandon",,ball,Nick Ahmed strikes out swinging.,R,R,R,AZ,SD,B,,Top,Sweeper
+187,187,ST,2024-09-29,"Pfaadt, Brandon",,ball,Nick Ahmed strikes out swinging.,R,R,R,AZ,SD,B,,Top,Sweeper
+188,188,ST,2024-09-29,"Pfaadt, Brandon",,swinging_strike,Nick Ahmed strikes out swinging.,R,R,R,AZ,SD,S,,Top,Sweeper
+189,189,CH,2024-09-29,"Pfaadt, Brandon",walk,ball,Jackson Merrill walks.,R,L,R,AZ,SD,B,,Top,Changeup
+190,190,SI,2024-09-29,"Pfaadt, Brandon",,ball,Jackson Merrill walks.,R,L,R,AZ,SD,B,,Top,Sinker
+191,191,CH,2024-09-29,"Pfaadt, Brandon",,foul,Jackson Merrill walks.,R,L,R,AZ,SD,S,,Top,Changeup
+192,192,FF,2024-09-29,"Pfaadt, Brandon",,ball,Jackson Merrill walks.,R,L,R,AZ,SD,B,,Top,4-Seam Fastball
+193,193,CH,2024-09-29,"Pfaadt, Brandon",,ball,Jackson Merrill walks.,R,L,R,AZ,SD,B,,Top,Changeup
+194,194,CH,2024-09-29,"Pfaadt, Brandon",,swinging_strike,Jackson Merrill walks.,R,L,R,AZ,SD,S,,Top,Changeup
+195,195,CU,2024-09-29,"Pfaadt, Brandon",strikeout,foul_tip,David Peralta strikes out on a foul tip.,R,L,R,AZ,SD,S,,Top,Curveball
+196,196,SI,2024-09-29,"Pfaadt, Brandon",,ball,David Peralta strikes out on a foul tip.,R,L,R,AZ,SD,B,,Top,Sinker
+197,197,FF,2024-09-29,"Pfaadt, Brandon",,ball,David Peralta strikes out on a foul tip.,R,L,R,AZ,SD,B,,Top,4-Seam Fastball
+198,198,CH,2024-09-29,"Pfaadt, Brandon",,foul,David Peralta strikes out on a foul tip.,R,L,R,AZ,SD,S,,Top,Changeup
+199,199,FF,2024-09-29,"Pfaadt, Brandon",,called_strike,David Peralta strikes out on a foul tip.,R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+200,200,CH,2024-09-29,"Pfaadt, Brandon",strikeout,swinging_strike,Jake Cronenworth strikes out swinging.,R,L,R,AZ,SD,S,,Top,Changeup
+201,201,FF,2024-09-29,"Pfaadt, Brandon",,foul,Jake Cronenworth strikes out swinging.,R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+202,202,CH,2024-09-29,"Pfaadt, Brandon",,ball,Jake Cronenworth strikes out swinging.,R,L,R,AZ,SD,B,,Top,Changeup
+203,203,FF,2024-09-29,"Pfaadt, Brandon",,called_strike,Jake Cronenworth strikes out swinging.,R,L,R,AZ,SD,S,,Top,4-Seam Fastball
+204,204,FC,2024-09-29,"Pérez, Martín",field_out,hit_into_play,"Corbin Carroll grounds out, shortstop Nick Ahmed to first baseman Luis Arraez.",R,L,L,AZ,SD,X,ground_ball,Bot,Cutter
+205,205,CH,2024-09-29,"Pérez, Martín",,blocked_ball,"Corbin Carroll grounds out, shortstop Nick Ahmed to first baseman Luis Arraez.",R,L,L,AZ,SD,B,,Bot,Changeup
+206,206,SI,2024-09-29,"Pérez, Martín",,ball,"Corbin Carroll grounds out, shortstop Nick Ahmed to first baseman Luis Arraez.",R,L,L,AZ,SD,B,,Bot,Sinker
+207,207,FF,2024-09-29,"Pérez, Martín",field_out,hit_into_play,Ketel Marte flies out to center fielder Jackson Merrill.,R,R,L,AZ,SD,X,fly_ball,Bot,4-Seam Fastball
+208,208,CU,2024-09-29,"Pérez, Martín",,blocked_ball,Ketel Marte flies out to center fielder Jackson Merrill.,R,R,L,AZ,SD,B,,Bot,Curveball
+209,209,SI,2024-09-29,"Pérez, Martín",,foul,Ketel Marte flies out to center fielder Jackson Merrill.,R,R,L,AZ,SD,S,,Bot,Sinker
+210,210,FF,2024-09-29,"Pérez, Martín",,foul,Ketel Marte flies out to center fielder Jackson Merrill.,R,R,L,AZ,SD,S,,Bot,4-Seam Fastball
+211,211,CH,2024-09-29,"Pérez, Martín",,foul,Ketel Marte flies out to center fielder Jackson Merrill.,R,R,L,AZ,SD,S,,Bot,Changeup
+212,212,CU,2024-09-29,"Pérez, Martín",,ball,Ketel Marte flies out to center fielder Jackson Merrill.,R,R,L,AZ,SD,B,,Bot,Curveball
+213,213,CH,2024-09-29,"Pérez, Martín",sac_bunt,hit_into_play,"Geraldo Perdomo out on a sacrifice bunt, pitcher Martín Pérez to first baseman Luis Arraez.   Gabriel Moreno to 2nd.",R,R,L,AZ,SD,X,ground_ball,Bot,Changeup
+214,214,SI,2024-09-29,"Pérez, Martín",,foul_bunt,"Geraldo Perdomo out on a sacrifice bunt, pitcher Martín Pérez to first baseman Luis Arraez.   Gabriel Moreno to 2nd.",R,R,L,AZ,SD,S,,Bot,Sinker
+215,215,FC,2024-09-29,"Pérez, Martín",walk,ball,Gabriel Moreno walks.,R,R,L,AZ,SD,B,,Bot,Cutter
+216,216,SI,2024-09-29,"Pérez, Martín",,foul,Gabriel Moreno walks.,R,R,L,AZ,SD,S,,Bot,Sinker
+217,217,CH,2024-09-29,"Pérez, Martín",,foul,Gabriel Moreno walks.,R,R,L,AZ,SD,S,,Bot,Changeup
+218,218,SI,2024-09-29,"Pérez, Martín",,ball,Gabriel Moreno walks.,R,R,L,AZ,SD,B,,Bot,Sinker
+219,219,FC,2024-09-29,"Pérez, Martín",,foul,Gabriel Moreno walks.,R,R,L,AZ,SD,S,,Bot,Cutter
+220,220,CH,2024-09-29,"Pérez, Martín",,called_strike,Gabriel Moreno walks.,R,R,L,AZ,SD,S,,Bot,Changeup
+221,221,SI,2024-09-29,"Pérez, Martín",,ball,Gabriel Moreno walks.,R,R,L,AZ,SD,B,,Bot,Sinker
+222,222,FC,2024-09-29,"Pérez, Martín",,ball,Gabriel Moreno walks.,R,R,L,AZ,SD,B,,Bot,Cutter
+223,223,SI,2024-09-29,"Pérez, Martín",,called_strike,Gabriel Moreno walks.,R,R,L,AZ,SD,S,,Bot,Sinker
+224,224,ST,2024-09-29,"Pfaadt, Brandon",strikeout,foul_tip,Fernando Tatis Jr.  strikes out on a foul tip.,R,R,R,AZ,SD,S,,Top,Sweeper
+225,225,SI,2024-09-29,"Pfaadt, Brandon",,ball,Fernando Tatis Jr.  strikes out on a foul tip.,R,R,R,AZ,SD,B,,Top,Sinker
+226,226,SI,2024-09-29,"Pfaadt, Brandon",,called_strike,Fernando Tatis Jr.  strikes out on a foul tip.,R,R,R,AZ,SD,S,,Top,Sinker
+227,227,FF,2024-09-29,"Pfaadt, Brandon",,foul,Fernando Tatis Jr.  strikes out on a foul tip.,R,R,R,AZ,SD,S,,Top,4-Seam Fastball
+228,228,FF,2024-09-29,"Pfaadt, Brandon",field_out,hit_into_play,Luis Arraez flies out to center fielder Jake McCarthy.,R,L,R,AZ,SD,X,fly_ball,Top,4-Seam Fastball
+229,229,SI,2024-09-29,"Pfaadt, Brandon",strikeout,called_strike,Brandon Lockridge called out on strikes.,R,R,R,AZ,SD,S,,Top,Sinker
+230,230,ST,2024-09-29,"Pfaadt, Brandon",,ball,Brandon Lockridge called out on strikes.,R,R,R,AZ,SD,B,,Top,Sweeper
+231,231,SI,2024-09-29,"Pfaadt, Brandon",,called_strike,Brandon Lockridge called out on strikes.,R,R,R,AZ,SD,S,,Top,Sinker
+232,232,SI,2024-09-29,"Pfaadt, Brandon",,called_strike,Brandon Lockridge called out on strikes.,R,R,R,AZ,SD,S,,Top,Sinker
+233,233,SI,2024-09-29,"Pfaadt, Brandon",,ball,Brandon Lockridge called out on strikes.,R,R,R,AZ,SD,B,,Top,Sinker
+234,234,FC,2024-09-29,"Pérez, Martín",strikeout,swinging_strike,Jake McCarthy strikes out swinging.,R,L,L,AZ,SD,S,,Bot,Cutter
+235,235,FC,2024-09-29,"Pérez, Martín",,swinging_strike,Jake McCarthy strikes out swinging.,R,L,L,AZ,SD,S,,Bot,Cutter
+236,236,SI,2024-09-29,"Pérez, Martín",,called_strike,Jake McCarthy strikes out swinging.,R,L,L,AZ,SD,S,,Bot,Sinker
+237,237,SI,2024-09-29,"Pérez, Martín",strikeout,called_strike,Eugenio Suárez called out on strikes.,R,R,L,AZ,SD,S,,Bot,Sinker
+238,238,FC,2024-09-29,"Pérez, Martín",,swinging_strike,Eugenio Suárez called out on strikes.,R,R,L,AZ,SD,S,,Bot,Cutter
+239,239,CH,2024-09-29,"Pérez, Martín",,called_strike,Eugenio Suárez called out on strikes.,R,R,L,AZ,SD,S,,Bot,Changeup
+240,240,CH,2024-09-29,"Pérez, Martín",,ball,Eugenio Suárez called out on strikes.,R,R,L,AZ,SD,B,,Bot,Changeup
+241,241,FF,2024-09-29,"Pérez, Martín",,ball,Eugenio Suárez called out on strikes.,R,R,L,AZ,SD,B,,Bot,4-Seam Fastball
+242,242,SI,2024-09-29,"Pérez, Martín",,ball,Eugenio Suárez called out on strikes.,R,R,L,AZ,SD,B,,Bot,Sinker
+243,243,SI,2024-09-29,"Pérez, Martín",field_out,hit_into_play,Randal Grichuk flies out to center fielder Jackson Merrill.,R,R,L,AZ,SD,X,fly_ball,Bot,Sinker
+244,244,CH,2024-09-29,"Pfaadt, Brandon",field_out,hit_into_play,Tyler Wade flies out to center fielder Jake McCarthy.,R,L,R,AZ,SD,X,fly_ball,Top,Changeup
+245,245,CU,2024-09-29,"Pfaadt, Brandon",,called_strike,Tyler Wade flies out to center fielder Jake McCarthy.,R,L,R,AZ,SD,S,,Top,Curveball
+246,246,CH,2024-09-29,"Pfaadt, Brandon",,blocked_ball,Tyler Wade flies out to center fielder Jake McCarthy.,R,L,R,AZ,SD,B,,Top,Changeup
+247,247,FF,2024-09-29,"Pfaadt, Brandon",,ball,Tyler Wade flies out to center fielder Jake McCarthy.,R,L,R,AZ,SD,B,,Top,4-Seam Fastball
+248,248,CU,2024-09-29,"Pfaadt, Brandon",double,hit_into_play,Elias Díaz doubles (20) on a line drive to left fielder Lourdes Gurriel Jr.  Nick Ahmed scores.,R,R,R,AZ,SD,X,line_drive,Top,Curveball
+249,249,SI,2024-09-29,"Pfaadt, Brandon",,foul,Elias Díaz doubles (20) on a line drive to left fielder Lourdes Gurriel Jr.  Nick Ahmed scores.,R,R,R,AZ,SD,S,,Top,Sinker
