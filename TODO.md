@@ -22,3 +22,11 @@ Less of a TODO list, more of a list of things that come to mind that could be co
 8. Improvements to the algorithm:
 	- Improve the accuracy
 	- Make the Mets lose all the time (accuracy)
+
+
+
+## Misc:
+- Organize data by games
+	- If teams match
+	- If date matches
+	- It should be grouped
