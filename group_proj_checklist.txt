@@ -1,0 +1,42 @@
+Data Analytics Group Project Checklist
+
+Project
+9 Points
+
+    • Implementations of the machine learning algorithm used
+         A. non-distributed 	(3)
+         B. distributed		(3)
+    • Metrics of distributed implementation	(3)
+         A. Speed-up
+         B. Size-up
+         C. Scale-up
+
+Report
+Introduction (1 page max)
+    • Group members
+    • title of project
+    • type of learning
+    • name of machine learning algorithm
+    • parallelization approach of project
+    • 1-2 sentence description of dataset
+    • URL of dataset
+Dataset Description (1 page max)
+    • Brief description of columns of dataset
+    • indicate which columns are used as features
+    • number of rows
+    • volume of dataset
+Results of non-distributed implementation (1 page max)
+    • accuracy and any charts produced by program
+Results of distributed implementation (1 page max)
+    • accuracy and any charts produced by program
+Metrics (1 page max)
+    • Charts for 
+        ◦ Speed-up
+        ◦ Size-up
+        ◦ Scale-up
+
+Submission
+    • zipped file containing all files of project
+    • PDF output of the notebook
+    • PDF report file
+
