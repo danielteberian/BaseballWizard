@@ -1,3 +1,4 @@
 pyspark
 pybaseball
 pandas
+rich
