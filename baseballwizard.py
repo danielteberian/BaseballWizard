@@ -314,6 +314,54 @@ def index_cols(progress):
 		elif row['event'] == 'strikeout' and row['description'] == 'foul_tip':
 			return 'foul_tip'
 
+		# If event is strikeout, and description is called_strike
+		elif row['event'] == 'strikeout' and row['description'] == 'called_strike':
+			return 'called_strike'
+
+		# If description is foul_tip
+		elif row['description'] == 'foul_tip':
+			return 'foul_tip'
+
+		# If event is grounded_into_double_play, and description is hit_into_play
+		elif row['event'] == 'grounded_into_double_play' and row['description'] == 'hit_into_play':
+			return 'grounded_into_double_play'
+
+		# If event is hit_by_pitch, and description is hit_by_pitch
+		elif row['event'] == 'hit_by_pitch' and row['description'] == 'hit_by_pitch':
+			return 'hit_by_pitch'
+
+		# If event is triple, and description is hit_into_play
+		elif row['event'] == 'triple' and row['description'] == 'hit_into_play':
+			return 'triple'
+
+		# If event is force_out, and description is hit_into play
+		elif row['event'] == 'force_out' and row['description'] == 'hit_into_play':
+			return 'force_out'
+
+		# If event is strikeout, and description is swinging_strike
+		elif row['event'] == 'strikeout' and row['description'] == 'swinging_strike':
+			return 'swinging_strike'
+
+		# If event is double, and description is hit_into_play
+		elif row['event'] == 'double' and row['description'] == 'hit_into_play':
+			return 'double'
+
+		# If event is walk, and description is ball
+		elif row['event'] == 'walk' and row['description'] == 'hit_into_play':
+			return 'walk'
+
+		# If event is sac_bunt, and description is hit_into_play
+		elif row['event'] == 'sac_bunt' and row['description'] == 'hit_into_play':
+			return 'sac_bunt'
+
+		# If description is foul_bunt
+		elif row['description'] == 'foul_bunt':
+			return 'foul_bunt'
+
+		# If event is strikeout, and description swinging_strike_blocked
+		elif row['event'] == 'strikeout' and row['description'] == 'swinging_strike_blocked':
+			return 'swinging_strike_blocked'
+
 		# If all else fails, use the value in the description column
 		else:
 			return row['description']
