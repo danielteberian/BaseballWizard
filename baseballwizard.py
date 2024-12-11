@@ -392,11 +392,12 @@ def main():
 	console.print("[yellow]First, we need a dataset. Do you have one?[/yellow]")
 	console.print("[white]1 - I already have a dataset.[/white]")
 	console.print("[white]2 - I need to download a dataset.[/white]")
+	console.print("[blink red]SUPER SECRET ANDREW MODE (3)[/blink red")
 
 	# Ask the user if they need to download the data
 	choice1 = Prompt.ask(
 	"[blue]What would you like to do?[/blue]",
-	choices=["1", "2"],
+	choices=["1", "2", "3"],
  	show_choices=True,
 	)
 
@@ -405,6 +406,8 @@ def main():
 				sys.exit()
 			elif choice1 == "2":
 				retrieve_data(progress)
+			elif choice1 == "3":
+				andrew_function()
 
 if __name__ == "__main__":
 	main()
