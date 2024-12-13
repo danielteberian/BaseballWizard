@@ -1,0 +1,169 @@
+def non_distributed_implementation():
+    start_time = time.time()
+    df = pd.read_csv("bw_data.csv")
+    # Implement the Random Forest from scikit-learn
+    from sklearn.ensemble import RandomForestClassifier
+    from sklearn.model_selection import train_test_split
+    from sklearn.metrics import accuracy_score
+
+    X = df[['home_team', 'away_team']]  # Replace with your features
+    y = df['hit_location']  # Replace with your target column
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+    model = RandomForestClassifier(n_estimators=100)
+    model.fit(X_train, y_train)
+
+    y_pred = model.predict(X_test)
+    accuracy = accuracy_score(y_test, y_pred)
+    print(f"Non-Distributed Implementation Accuracy: {accuracy}")
+
+    duration = time.time() - start_time
+    return duration
+
+
+
+
+
+
+
+
+
+
+def distributed_implementation(num_nodes):
+    start_time = time.time()
+    spark = SparkSession.builder \
+        .appName("DistributedML") \
+        .config("spark.sql.shuffle.partitions", str(num_nodes * 200)) \
+        .getOrCreate()
+
+    df = spark.read.csv("bw_data.csv", header=True, inferSchema=True)
+
+    from pyspark.ml.feature import VectorAssembler
+    from pyspark.ml.classification import RandomForestClassifier
+    from pyspark.ml.evaluation import MulticlassClassificationEvaluator
+
+    assembler = VectorAssembler(inputCols=['home_team', 'away_team'], outputCol="features")
+    df = assembler.transform(df)
+
+    train_data, test_data = df.randomSplit([0.7, 0.3], seed=42)
+
+    rf = RandomForestClassifier(featuresCol="features", labelCol="hit_location", numTrees=100)
+    model = rf.fit(train_data)
+
+    predictions = model.transform(test_data)
+    evaluator = MulticlassClassificationEvaluator(labelCol="hit_location", metricName="accuracy")
+    accuracy = evaluator.evaluate(predictions)
+    print(f"Distributed Implementation Accuracy with {num_nodes} nodes: {accuracy}")
+
+    duration = time.time() - start_time
+    return duration
+
+
+
+
+
+
+
+
+
+def measure_speed_up(non_dist_duration, distributed_durations):
+    speed_up = [non_dist_duration / duration for duration in distributed_durations]
+    print("Speed-Up:", speed_up)
+
+def measure_size_up():
+    dataset_sizes = [10000, 50000, 100000]  # Example sizes
+    size_up_durations = []
+    for size in dataset_sizes:
+        duration = size_up_implementation(size)
+        size_up_durations.append(duration)
+        print(f"Size-Up Duration with dataset size {size}: {duration} seconds")
+    return size_up_durations
+
+def size_up_implementation(dataset_size):
+    start_time = time.time()
+    spark = SparkSession.builder \
+        .appName("SizeUpML") \
+        .getOrCreate()
+
+    # Adjust this part to generate/load a dataset of the specified size
+    data = statcast(start_dt="2024-03-20", end_dt="2024-09-29")  # Simplified for demo purposes
+    data = data.head(dataset_size)
+    data['game_date'] = data['game_date'].astype(str)
+    data.to_csv(f"bw_data_{dataset_size}.csv")
+
+    df = spark.read.csv(f"bw_data_{dataset_size}.csv", header=True, inferSchema=True)
+    assembler = VectorAssembler(inputCols=['home_team', 'away_team'], outputCol="features")
+    df = assembler.transform(df)
+
+    train_data, test_data = df.randomSplit([0.7, 0.3], seed=42)
+
+    rf = RandomForestClassifier(featuresCol="features", labelCol="hit_location", numTrees=100)
+    model = rf.fit(train_data)
+
+    predictions = model.transform(test_data)
+    evaluator = MulticlassClassificationEvaluator(labelCol="hit_location", metricName="accuracy")
+    accuracy = evaluator.evaluate(predictions)
+    print(f"Size-Up Implementation Accuracy with dataset size {dataset_size}: {accuracy}")
+
+    duration = time.time() - start_time
+    return duration
+
+def measure_scale_up():
+    fixed_dataset_size = 50000  # Example size
+    nodes = [1, 2, 4, 8]  # Example node counts
+    scale_up_durations = []
+    for node in nodes:
+        duration = distributed_implementation(node)
+        scale_up_durations.append(duration)
+        print(f"Scale-Up Duration with {node} nodes: {duration} seconds")
+    return scale_up_durations
+
+
+
+
+
+
+
+
+
+
+
+
+
+def main():
+    console.clear()
+    bw_logo = Figlet(font='slant')
+    console.print(bw_logo.renderText('BaseballWizard'))
+
+    console.print("[bold blue]Welcome to BaseballWizard![/bold blue]")
+    console.print("[yellow]First, we need a dataset. Do you have one?[/yellow]")
+    console.print("[white]1 - I already have a dataset.[/white]")
+    console.print("[white]2 - I need to download a dataset.[/white]")
+
+    choice1 = Prompt.ask(
+        "[blue]What would you like to do?[/blue]",
+        choices=["1", "2"],
+        show_choices=True,
+    )
+
+    with Progress() as progress:
+        if choice1 == "1":
+            non_dist_duration = non_distributed_implementation()
+            distributed_durations = []
+            nodes = [1, 2, 4, 8]
+            for node in nodes:
+                duration = distributed_implementation(node)
+                distributed_durations.append(duration)
+                print(f"Distributed Duration with {node} nodes: {duration} seconds")
+            
+            measure_speed_up(non_dist_duration, distributed_durations)
+            size_up_durations = measure_size_up()
+            scale_up_durations = measure_scale_up()
+
+        elif choice1 == "2":
+            retrieve_data(progress)
+
+if __name__ == "__main__":
+    main()
+
