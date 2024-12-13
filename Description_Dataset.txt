@@ -1,0 +1,27 @@
+Brief Descriptions of the Columns:
+
+game_date: Date of the game.
+home_team: The team playing at home.
+away_team: The team playing away.
+home_score: Final score of the home team.
+away_score: Final score of the away team.
+launch_speed: Speed at which the ball was hit (exit velocity).
+launch_angle: Angle at which the ball was hit.
+events: Game events (e.g., strikeout, home run).
+release_speed: Speed of the pitch.
+release_spin_rate: Spin rate of the pitch.
+inning_topbot: Indicates whether it is the top or bottom of the inning.
+home_runs: Number of home runs hit by the home team.
+away_runs: Number of home runs hit by the away team.
+Chosen Features:
+
+home_team, away_team: Categorical features encoding team identities (via indexing).
+home_hits, away_hits: Calculated from the game data (number of hits by each team).
+home_avg_pitch_speed, away_avg_pitch_speed: The average pitching speeds for each team.
+home_runs, away_runs: Total home runs scored by each team.
+avg_exit_velocity, avg_launch_angle: Key features for batting performance.
+Number of Rows:
+
+The dataset contains 100,000+ rows (the exact number would depend on the games used).
+Volume of the Dataset:
+300mb
