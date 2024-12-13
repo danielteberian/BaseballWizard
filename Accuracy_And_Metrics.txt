@@ -1,0 +1,5 @@
+Results of the non-distributed implementation (maximum 1 page): Include the accuracy and any charts produced
+by your program.
+4. Results of the distributed implementation (maximum 1 page): Include the accuracy and any chart produced by
+your program.
+5. Measured metrics (maximum 1 page): The charts produced by your program for Speed-up, Size-up, and Scale-up.
