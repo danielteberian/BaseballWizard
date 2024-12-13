@@ -1,0 +1,14 @@
+Group Members: Andrew Appleby, Daniel Teberian, Grant Wilke
+
+Title of the Project: Predicting MLB Game Outcomes with Distributed Machine Learning
+
+Type of Learning: Binary Classification
+
+Machine Learning Algorithm: Random Forest Classifier
+
+Approach for Parallelizing the Machine Learning Algorithm:
+We parallelized the data processing and model training using PySpark's distributed computing framework. The approach focuses on utilizing Spark’s native parallelization for feature engineering, data transformations, and model training.
+Spark’s MLlib was used for distributed model training, and dataset partitions were used to speed up data transformations and evaluations across nodes.
+Description of the Dataset:
+The dataset consists of MLB player statistics from games played in 2018-2024. It contains game-level data (e.g., scores, player performance) and player-specific stats (e.g., batting average, home runs, pitch speed).
+URL of the Dataset: https://baseballsavant.mlb.com/leaderboard/statcast -------- We collected the data from this link.
